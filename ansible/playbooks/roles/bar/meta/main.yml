@@ -1,3 +1,3 @@
 ---
 dependencies:
-- _dep
+- { role: _dep, tags: bar }
