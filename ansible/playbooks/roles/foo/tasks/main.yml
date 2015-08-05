@@ -1,0 +1,4 @@
+---
+- debug: msg="Foo's notifying task"
+  changed_when: True
+  notify: Bar's handler
